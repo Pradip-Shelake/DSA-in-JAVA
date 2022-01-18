@@ -3,6 +3,7 @@ package com.company;
 public class Skip_string {
     public static void main(String[] args) {
         System.out.println(skipappNotApple("bsappehhjaopaappk"));
+
     }
     static String skipApple(String up){
         if(up.isEmpty()){
